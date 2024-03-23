@@ -2,7 +2,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dhwjdals12)](https://solved.ac/dhwjdals12/)
 <br/>
 <br/>
-🤔 once I've used ...
+🤔 사용 가능한 기술 스택
 <br/>
 <br/>
 <span>
