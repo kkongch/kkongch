@@ -22,7 +22,7 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=Git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=Figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jira-0052CC?style=plastic&logo=Jira&logoColor=white"/>
-
 </span>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dhwjdals12)](https://solved.ac/dhwjdals12/)
 
 
