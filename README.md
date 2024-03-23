@@ -3,6 +3,8 @@
 🤔 once I've used ...
 <br/>
 <br/>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dhwjdals12)](https://solved.ac/dhwjdals12/)
+<br/>
 <span>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=HTML&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=plastic&logo=CSS&logoColor=white"/>
@@ -22,7 +24,7 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=Git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=Figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jira-0052CC?style=plastic&logo=Jira&logoColor=white"/>
+
 </span>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dhwjdals12)](https://solved.ac/dhwjdals12/)
 
 
